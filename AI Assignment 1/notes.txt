@@ -1,0 +1,18 @@
+initial implementation
+
+base
+cycle crossover with vanilla genetic algorithm
+
+v1
+added greedy heuristic code to have a backup solution 
+
+v2
+experimented with pmxcrossover - benefits not worth the cost of time
+
+v3 
+added simulated annealing on reedy --> great performance [ got 1138 on sample_50]
+ch150 -> 7007
+berlin52 -> 7544
+
+to add - simulated annealing, experiment on non-rand init, crossover and mutation
+

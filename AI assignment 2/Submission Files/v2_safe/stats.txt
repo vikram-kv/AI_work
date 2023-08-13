@@ -1,0 +1,2 @@
+red - wins - 42, loss - 16
+black - 

@@ -1,0 +1,43 @@
+greedy - done, checked
+sim ann - done, checked
+genetic - pending
+2 opt - done, checked
+3 opt - done, checked
+
+any result -> use check valid before updating best tour - done, checked
+do genetic algorithm with mutations in the middle - done, checked
+
+
+tdn
+check on various tsplib instances
+
+work with more runs of SA + 3-opts + 2-opts ?
+
+
+TESTs
+
+fine list
+att48, berlin52, ch130(6277(early)), ch150(6632(3m)), d198(15780(opt) - 16122(early))
+
+berlin52        7544    7542
+ch130           6277    6110
+ch150           6632    6528
+d198            16122   15780
+d493            36609   35000
+d657            51250   48912
+eil101          660     629
+dsj1000         1.98*10^7  1.86*10^7
+gil262          2480    2378
+kroA100         21395   21282
+kroA150         27107   26524
+kroA200         29970   29368
+kroB100         22372   22141
+kroB150         26507   26130
+kroB200         30356   29437
+kroC100         20824   20749
+kroD100         21500   21294        
+kroE100         22198   22068
+bays29          2020    2020
+uy734           82798   79110
+reuc_100        1622      -
+rnoneuc_100     5240      -
