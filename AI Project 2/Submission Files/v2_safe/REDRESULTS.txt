@@ -1,0 +1,482 @@
+MyColor: red
+['xOath4.so', 'oathdebug.so', 'debug.so', 'CS19B074.so', 'hope4.so', 'spade.so', 'sanchit.so', 'peeker.so', 'Oath5.so', 'Oath1.so', 'vikram2.so', 'xOath5.so', 'Oath3.so', 'hope3.so', 'hope5.so', 'albus.so', 'deepika.so', 'xOath2.so', 'freya3.so', 'hope7.so', '62.so', 'vikram.so', 'Oath4.so', 'bot.so', 'elijah6.so', 'freya4.so', 'Oath2.so', 'cruser.so', 'xOath1.so', 'Oath6.so', 'dv2.0.so', 'freya2.so', 'vikram1.so', 'hopetime2.so', 'rinnegan.so', 'r2d2.so', 'bluefish.so', 'xOath6.so', 'freya.so', 'byakugan.so', 'xOath5t.so', 'xavier.so', 'elijah.so', 'hope-time.so', 'armin.so', 'erwin.so', 'vedroid-debug.so', 'hope2.so', 'freya5.so', 'niklaus10.so', 'sharingan.so', 'dv.so', 'CS19B074_1.so', 'itachi.so', 'freya6.so', 'niklaus.so', 'freya-time.so', 'vedroid.so', 'Oath7.so', 'niklaus7.so', 'hopetime.so', '14.so']
+Playing as red with xOath4.so ...	['./bin/Desdemona', './collection/xOath4.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+24
+40
+-16
+
+
+Playing as red with oathdebug.so ...	['./bin/Desdemona', './collection/oathdebug.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+2
+60
+-58
+
+
+Playing as red with debug.so ...	['./bin/Desdemona', './collection/debug.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+24
+40
+-16
+
+
+Playing as red with CS19B074.so ...	['./bin/Desdemona', './collection/CS19B074.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+25
+39
+-14
+
+
+Playing as red with hope4.so ...	['./bin/Desdemona', './collection/hope4.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+1
+57
+-56
+
+
+Playing as red with spade.so ...	['./bin/Desdemona', './collection/spade.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+24
+40
+-16
+
+
+Playing as red with sanchit.so ...	['./bin/Desdemona', './collection/sanchit.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+42
+22
+20
+
+
+Playing as red with peeker.so ...	['./bin/Desdemona', './collection/peeker.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+24
+40
+-16
+
+
+Playing as red with Oath5.so ...	['./bin/Desdemona', './collection/Oath5.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+18
+46
+-28
+
+
+Playing as red with Oath1.so ...	['./bin/Desdemona', './collection/Oath1.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+13
+51
+-38
+
+
+Playing as red with vikram2.so ...	['./bin/Desdemona', './collection/vikram2.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+12
+52
+-40
+
+
+Playing as red with xOath5.so ...	['./bin/Desdemona', './collection/xOath5.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+11
+53
+-42
+
+
+Playing as red with Oath3.so ...	['./bin/Desdemona', './collection/Oath3.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+2
+60
+-58
+
+
+Playing as red with hope3.so ...	['./bin/Desdemona', './collection/hope3.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+40
+24
+16
+
+
+Playing as red with hope5.so ...	['./bin/Desdemona', './collection/hope5.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+19
+45
+-26
+
+
+Playing as red with albus.so ...	['./bin/Desdemona', './collection/albus.so', './bots/MyBot/bot.so']
+
+
+
+Playing as red with deepika.so ...	['./bin/Desdemona', './collection/deepika.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+55
+9
+46
+
+
+Playing as red with xOath2.so ...	['./bin/Desdemona', './collection/xOath2.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+15
+49
+-34
+
+
+Playing as red with freya3.so ...	['./bin/Desdemona', './collection/freya3.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+21
+43
+-22
+
+
+Playing as red with hope7.so ...	['./bin/Desdemona', './collection/hope7.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+38
+26
+12
+
+
+Playing as red with 62.so ...	['./bin/Desdemona', './collection/62.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+49
+15
+34
+
+
+Playing as red with vikram.so ...	['./bin/Desdemona', './collection/vikram.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+22
+42
+-20
+
+
+Playing as red with Oath4.so ...	['./bin/Desdemona', './collection/Oath4.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+15
+49
+-34
+
+
+Playing as red with bot.so ...	['./bin/Desdemona', './collection/bot.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+0
+45
+-45
+
+
+Playing as red with elijah6.so ...	['./bin/Desdemona', './collection/elijah6.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+40
+24
+16
+
+
+Playing as red with freya4.so ...	['./bin/Desdemona', './collection/freya4.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+23
+41
+-18
+
+
+Playing as red with Oath2.so ...	['./bin/Desdemona', './collection/Oath2.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+0
+60
+-60
+
+
+Playing as red with cruser.so ...	['./bin/Desdemona', './collection/cruser.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+18
+46
+-28
+
+
+Playing as red with xOath1.so ...	['./bin/Desdemona', './collection/xOath1.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+20
+44
+-24
+
+
+Playing as red with Oath6.so ...	['./bin/Desdemona', './collection/Oath6.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+19
+45
+-26
+
+
+Playing as red with dv2.0.so ...	['./bin/Desdemona', './collection/dv2.0.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+6
+58
+-52
+
+
+Playing as red with freya2.so ...	['./bin/Desdemona', './collection/freya2.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+40
+23
+17
+
+
+Playing as red with vikram1.so ...	['./bin/Desdemona', './collection/vikram1.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+12
+52
+-40
+
+
+Playing as red with hopetime2.so ...	['./bin/Desdemona', './collection/hopetime2.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+19
+45
+-26
+
+
+Playing as red with rinnegan.so ...	['./bin/Desdemona', './collection/rinnegan.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+54
+10
+44
+
+
+Playing as red with r2d2.so ...	['./bin/Desdemona', './collection/r2d2.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+6
+57
+-51
+
+
+Playing as red with bluefish.so ...	['./bin/Desdemona', './collection/bluefish.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+10
+54
+-44
+
+
+Playing as red with xOath6.so ...	['./bin/Desdemona', './collection/xOath6.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+10
+54
+-44
+
+
+Playing as red with freya.so ...	['./bin/Desdemona', './collection/freya.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+39
+25
+14
+
+
+Playing as red with byakugan.so ...	['./bin/Desdemona', './collection/byakugan.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+54
+10
+44
+
+
+Playing as red with xOath5t.so ...	['./bin/Desdemona', './collection/xOath5t.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+22
+42
+-20
+
+
+Playing as red with xavier.so ...	['./bin/Desdemona', './collection/xavier.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+24
+40
+-16
+
+
+Playing as red with elijah.so ...	['./bin/Desdemona', './collection/elijah.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+40
+24
+16
+
+
+Playing as red with hope-time.so ...	['./bin/Desdemona', './collection/hope-time.so', './bots/MyBot/bot.so']
+
+
+
+Playing as red with armin.so ...	['./bin/Desdemona', './collection/armin.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+54
+10
+44
+
+
+Playing as red with erwin.so ...	['./bin/Desdemona', './collection/erwin.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+52
+12
+40
+
+
+Playing as red with vedroid-debug.so ...	['./bin/Desdemona', './collection/vedroid-debug.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+26
+38
+-12
+
+
+Playing as red with hope2.so ...	['./bin/Desdemona', './collection/hope2.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+27
+37
+-10
+
+
+Playing as red with freya5.so ...	['./bin/Desdemona', './collection/freya5.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+53
+11
+42
+
+
+Playing as red with niklaus10.so ...	['./bin/Desdemona', './collection/niklaus10.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+0
+61
+-61
+
+
+Playing as red with sharingan.so ...	['./bin/Desdemona', './collection/sharingan.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+54
+10
+44
+
+
+Playing as red with dv.so ...	['./bin/Desdemona', './collection/dv.so', './bots/MyBot/bot.so']
+
+
+
+Playing as red with CS19B074_1.so ...	['./bin/Desdemona', './collection/CS19B074_1.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+19
+45
+-26
+
+
+Playing as red with itachi.so ...	['./bin/Desdemona', './collection/itachi.so', './bots/MyBot/bot.so']
+
+
+
+Playing as red with freya6.so ...	['./bin/Desdemona', './collection/freya6.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+30
+34
+-4
+
+
+Playing as red with niklaus.so ...	['./bin/Desdemona', './collection/niklaus.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+2
+60
+-58
+
+
+Playing as red with freya-time.so ...	['./bin/Desdemona', './collection/freya-time.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+6
+58
+-52
+
+
+Playing as red with vedroid.so ...	['./bin/Desdemona', './collection/vedroid.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+18
+46
+-28
+
+
+Playing as red with Oath7.so ...	['./bin/Desdemona', './collection/Oath7.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+15
+49
+-34
+
+
+Playing as red with niklaus7.so ...	['./bin/Desdemona', './collection/niklaus7.so', './bots/MyBot/bot.so']
+
+[Win]: Black
+37
+27
+10
+
+
+Playing as red with hopetime.so ...	['./bin/Desdemona', './collection/hopetime.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+11
+53
+-42
+
+
+Playing as red with 14.so ...	['./bin/Desdemona', './collection/14.so', './bots/MyBot/bot.so']
+
+[Win]: Red
+3
+60
+-57
+
+
