@@ -1,9 +1,0 @@
-BLACK 
-
-	WINS - 31
-	LOSS - 26
-	DRAW - 2
-
-RED
-	WINS - 43
-	LOSS - 19
